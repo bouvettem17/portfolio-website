@@ -1,6 +1,6 @@
 import React from "react";
 import Typed from "react-typed";
-import MichaelBouvette from "./MichaelBouvette.pdf"
+import MichaelBouvette from "./MichaelBouvetteResume.pdf"
 import { Link } from "react-scroll"
 
 const Header = () => {
