@@ -390,7 +390,7 @@ nav ul li {
 .timeline-pulsating-wrapper {
   display: flex;
   justify-content: space-between;
-  width: calc(100% + 3.4rem);
+  width: calc(100% + 3.5rem);
   margin-bottom: 1rem;
 }
 
@@ -398,7 +398,7 @@ nav ul li {
   .timeline-pulsating-wrapper {
     display: flex;
     justify-content: space-between;
-    width: calc(100% + 3.1rem);
+    width: calc(100% + 3.25rem);
     margin-bottom: 1rem;
   }
 }
@@ -407,7 +407,7 @@ nav ul li {
   .timeline-pulsating-wrapper {
     display: flex;
     justify-content: space-between;
-    width: calc(100% + 2.8rem);
+    width: calc(100% + 2.85rem);
     margin-bottom: 1rem;
   }
 }
