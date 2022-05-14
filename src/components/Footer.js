@@ -14,7 +14,7 @@ const Footer = () => {
                             <p>Denver, CO</p>
                         </div>
                         <div className="d-flex justify-content-center">
-                            <a href="mailto: mjbouvet@iu.edu">mjbouvet@iu.edu</a>
+                            <a href="mailto: michael.bouvette7@gmail.com">michael.bouvette7@gmail.com</a>
                         </div>
                     </div>
                     <div className="nav-box col-lg-3 col-md-2 col-sm-6">
@@ -40,7 +40,7 @@ const Footer = () => {
                         <h1 className="footer-title">LINKS</h1>
                         <div className="d-flex justify-content-center">
                             <a href="https://www.linkedin.com/in/michaelbouvette/" target="_blank"><FontAwesomeIcon className="icon" icon={faLinkedin} size="4x" /></a>
-                            <a href="https://github.com/mjbouvet?tab=repositories" target="_blank"><FontAwesomeIcon className="icon" icon={faGithubSquare} size="4x" /></a>
+                            <a href="https://github.com/bouvettem17?tab=repositories" target="_blank"><FontAwesomeIcon className="icon" icon={faGithubSquare} size="4x" /></a>
                             <a href="https://www.instagram.com/bouvettem17/" target="_blank"><FontAwesomeIcon className="icon" icon={faInstagramSquare} size="4x" /></a>
                         </div>
                     </div>

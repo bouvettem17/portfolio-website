@@ -1,5 +1,5 @@
 import React from "react";
-import author from "../Myself.PNG"
+import author from "../images/grad-photo.jpeg"
 
 const AboutMe = () => {
     return (
@@ -15,7 +15,7 @@ const AboutMe = () => {
                         <h1 className = "about-heading">About Me</h1>
                         <p>
                         I recently graduated from Indiana University with Distinction as a dobule major in Computer Science and Matehmtatics,
-                        I am currently a Open Technology Consultant at Credera's Denver Office. I have held multiple different job positions
+                        I am currently a Software Engineer at Credera's Denver Office. I have held multiple different job positions
                         and, on top of this, have overcome many large obstacles in life and have done my best to learn 
                         from my failures and hardships to develop as a person. I have an ability to perform under pressure 
                         and stress that can not be paralleled, and I am willing to work well beyond expectations.
