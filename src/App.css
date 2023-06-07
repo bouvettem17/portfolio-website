@@ -91,14 +91,15 @@ nav a.nav-link {
 
 .navbar.bg-dark.scrolled {
   background-color: var(--primary-black) !important;
-  transition: 0.7s ease-in-out;
-}
-
-.navbar {
+  transition: 0.4s ease-in-out;
 }
 
 nav ul li {
   text-transform: uppercase;
+}
+
+.navbar-collapse {
+    justify-content: center;
 }
 
 .navbar-nav > li > a {

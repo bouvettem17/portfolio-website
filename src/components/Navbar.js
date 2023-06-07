@@ -15,12 +15,12 @@ const Navbar = () => {
                 </button>
 
                 <div className="collapse navbar-collapse" id="navbarSupportedContent">
-                    <ul className="navbar-nav ml-auto">
+                    <ul className="navbar-nav">
                         <li className="nav-item active">
-                            <Link activeClass="active" smooth={true} spy={true} to="home" className="nav-link" href="#" offset={-250}>Home <span className="sr-only">(current)</span></Link>
+                            <Link activeClass="active" smooth={true} spy={true} to="home" className="nav-link" href="#" offset={-350}>Home <span className="sr-only">(current)</span></Link>
                         </li>
                         <li className="nav-item">
-                            <Link activeClass="active" smooth={true} spy={true} to="about" offset={-200} className="nav-link" href="#">About Me</Link>
+                            <Link activeClass="active" smooth={true} spy={true} to="about" offset={-350} className="nav-link" href="#">About Me</Link>
                         </li>
                         <li className="nav-item">
                             <Link activeClass="active" smooth={true} spy={true} to="services" offset={-300} className="nav-link" href="#">Interests</Link>
@@ -29,10 +29,10 @@ const Navbar = () => {
                             <Link activeClass="active" smooth={true} spy={true} to="portfolio" offset={-250} className="nav-link" href="#">Projects</Link>
                         </li>
                         <li className="nav-item">
-                            <Link activeClass="active" smooth={true} spy={true} to="experience" offset={-200} className="nav-link" href="#">Experience</Link>
+                            <Link activeClass="active" smooth={true} spy={true} to="experience" offset={-300} className="nav-link" href="#">Experience</Link>
                         </li>
                         <li className="nav-item">
-                            <Link activeClass="active" smooth={true} spy={true} to="contacts" offset={-110} className="nav-link" href="">Contact Me</Link>
+                            <Link activeClass="active" smooth={true} spy={true} to="contacts" offset={-400} className="nav-link" href="">Contact Me</Link>
                         </li>
                     </ul>
                 </div>
