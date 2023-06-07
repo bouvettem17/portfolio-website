@@ -94,7 +94,7 @@ const Experience = () => {
                 <div className="timeline-block timeline-block-right">
                     <div className="marker"></div>
                     <div className="timeline-content">
-                        <h3>2021</h3>
+                        <h3>2023</h3>
                         <p>
                             <ul>
                                 <li><b>Spring</b> - Continued work for IPNB team. Developed web application to deploy weekly predictions models for our Vendor Lead Time (VLT) service.</li><br />
