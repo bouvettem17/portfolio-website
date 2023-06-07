@@ -50,7 +50,4 @@
       "last 1 safari version"
     ]
   },
-    "engines": {
-        "node": ">=17.0.1"
-    }
 }
