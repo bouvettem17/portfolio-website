@@ -4,7 +4,7 @@ const Experience = () => {
     return (
         <div id="experience" className="experience">
             <div className="d-flex justify-content-center my-4">
-                <h1>college experience</h1>
+                <h1>college/work experience</h1>
             </div>
             <div className="container experience-wrapper">
                 <div className="timeline-block timeline-block-right">
@@ -85,11 +85,19 @@ const Experience = () => {
                         <p>
                             <ul>
                                 <li><b>Spring</b> - Finished work for Honda and Acura webapp which is now in use by all of their 1000+ dealerships. Joined the mobile specialization within my company and started work on a large-scale android app for NRG, the third largest energy provider in the US.</li><br />
-                                <div className="timeline-pulsating-wrapper">
-                                    <li className="timeline-pulsating-list-item" style={{width: '80%'}}><b>Summer</b> - Continuing mobile work for NRG, started work on Spotify Stories. Studying algorithms and learning technologies for personal projects.</li><br />
-                                    <div className="timeline-pulsating-circle"></div>
-                                </div>
-                                <li><b>Fall</b> - TBD </li>
+                                <li><b>Summer</b> - Continuing mobile work for NRG, started work on Spotify Stories. Studying algorithms and learning technologies for personal projects.</li><br />
+                                <li><b>Fall</b> - Started working at Amazon on the Inbound Predictions Network Balancing Team (IPNB). Worked on a unified portal for viewing prediction percentile distributions for Amazon POs. </li>
+                            </ul>
+                        </p>
+                    </div>
+                </div>
+                <div className="timeline-block timeline-block-right">
+                    <div className="marker"></div>
+                    <div className="timeline-content">
+                        <h3>2021</h3>
+                        <p>
+                            <ul>
+                                <li><b>Spring</b> - Continued work for IPNB team. Developed web application to deploy weekly predictions models for our Vendor Lead Time (VLT) service.</li><br />
                             </ul>
                         </p>
                     </div>

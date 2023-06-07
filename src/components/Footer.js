@@ -11,7 +11,7 @@ const Footer = () => {
                     <div className="col-lg-4 col-md-6 col-sm-6">
                         <h1 className="footer-title">INFO</h1>
                         <div className="d-flex justify-content-center">
-                            <p>Denver, CO</p>
+                            <p>San Diego, CA</p>
                         </div>
                         <div className="d-flex justify-content-center">
                             <a href="mailto: michael.bouvette7@gmail.com">michael.bouvette7@gmail.com</a>

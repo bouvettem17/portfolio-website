@@ -14,11 +14,11 @@ const AboutMe = () => {
                     <div class="col-lg-6 col-xm-12">
                         <h1 className = "about-heading">About Me</h1>
                         <p>
-                        I recently graduated from Indiana University with Distinction as a dobule major in Computer Science and Matehmtatics,
-                        I am currently a Software Engineer at Credera's Denver Office. I have held multiple different job positions
-                        and, on top of this, have overcome many large obstacles in life and have done my best to learn 
-                        from my failures and hardships to develop as a person. I have an ability to perform under pressure 
-                        and stress that can not be paralleled, and I am willing to work well beyond expectations.
+                        I graduated from Indiana University with Distinction as a double major in Computer Science and Matehmtatics and
+                        I am currently a Software Engineer at Amazon working for the Inbound Predictions Network Balancing team. 
+                        I have a huge interest in technology and have overcome many obstacles in life and have done my best to learn 
+                        from my failures and hardships to develop as a person. I have a strong ability to perform under pressure, love for learning, large curiousity,
+                        and I strive to perform beyond expectations in everything I do.
                         </p>
                     </div>
                 </div>
